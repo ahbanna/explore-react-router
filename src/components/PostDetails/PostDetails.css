@@ -1,0 +1,11 @@
+.post-details {
+  border: 2px solid green;
+  padding: 50px;
+  margin: 20px;
+  border-radius: 10px;
+}
+button {
+  background: #9370db;
+  padding: 10px 20px;
+  color: #fff;
+}

@@ -1,0 +1,8 @@
+.active {
+  background: #9370db;
+  padding: 10px;
+  color: #fff;
+}
+a.active:hover {
+  color: #fff;
+}

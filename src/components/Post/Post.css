@@ -1,0 +1,13 @@
+.single-post {
+  border: 2px solid purple;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+.single-post a {
+  background: mediumpurple;
+  color: #fff;
+  padding: 10px 15px;
+  border-radius: 30px;
+  margin-right: 10px;
+}
